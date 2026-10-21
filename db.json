@@ -3,35 +3,35 @@
         {
             "id": "1",
             "name": "Yashvi Shah",
-            "email": "yashvi@example.com",
+            "email": "yashvi@gmail.com",
             "password": "yashu123",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqpHhrjrqkSSM2OlaU60NXu3hRCUWNSidPJOHBmKu01w&s"
         },
         {
             "id": "2",
             "name": "Rahul Patel",
-            "email": "rahul@example.com",
+            "email": "rahul@gmail.com",
             "password": "rahul123",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzhxP7xvEOBZCqAByBmGSb-Va97IsJgphkeqDdKw5Bsg&s=10"
         },
         {
             "id": "3",
             "name": "Mahi Tiwari",
-            "email": "mahi@example.com",
+            "email": "mahi@gmail.com",
             "password": "mahi123",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvwDEgzOci6kRyjWiquQ5GkT20BzTF8AugTpNVM0qXPQ&s=10"
         },
         {
             "id": "4",
             "name": "Raj Jadeja",
-            "email": "raj@example.com",
+            "email": "raj@gmail.com",
             "password": "raj123",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_AgMTCIEl5bSkq9rlItlpDCkBJci364imwkZFkjXfag&s"
         },
         {
             "id": "5",
             "name": "Mishva Sinh",
-            "email": "mishu@example.com",
+            "email": "mishu@gmail.com",
             "password": "mishu123",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLuqcTU5j_6cXYKWZ864QRjv8yj4hbgykm4EPd4x5hIg&s=10"
         }
